@@ -1,0 +1,14 @@
+h1 {
+    color: brown; 
+    background-color: orange;
+}
+body {
+    background-color: orange;
+}
+ul {
+    color: brown;
+    font-size: 24px;
+}
+ol {
+    color: crimson;
+}
